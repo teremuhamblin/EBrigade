@@ -8,8 +8,8 @@
 
 🎖️ PRÉAMBULE – ORDRE DE MISSION LOGICIEL
 
-> Ordre de Mission Logiciel n° LBG‑01  
-Émis pour : Projet LeBrigade – Section Logicielle (fictive)  
+> Ordre de Mission Logiciel n° LBG‑07 - 1re_caple 
+- Émis pour : Projet LeBrigade – Section Logicielle (fictive)  
 - Objet : Libération totale du code dans le domaine public  
 - Statut : Diffusion libre – COMSEC validée (fictive)  
 
