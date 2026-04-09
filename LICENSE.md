@@ -1,4 +1,4 @@
-🇫🇷 LICENCE LeBrigade
+# 🇫🇷 LICENCE LeBrigade
 
 Édition OPS / RENS / COMSEC 
 - Version & Logicielle
@@ -20,7 +20,7 @@ Toute référence à des unités, structures ou terminologies militaires est pur
 
 📜 ARTICLE 1 — Liberté Totale d’Utilisation (OPS‑LIBRE)
 
-Toute personne, équipe ou entité est autorisée à :
+> Entité autorisée à :
 
 - copier  
 - modifier  
