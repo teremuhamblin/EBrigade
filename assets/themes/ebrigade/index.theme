@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Theme
+Name=LeBrigade
+Comment=Thème militaire-fictif pour Cinnamon
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=LeBrigade
+IconTheme=LeBrigade
+CursorTheme=Adwaita
+CursorSize=24
