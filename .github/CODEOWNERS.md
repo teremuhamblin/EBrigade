@@ -1,7 +1,7 @@
 # 🟩 CODEOWNERS
 >EBrigade OS V2
 # Unité Logicielle EBrigade
->Attribution des responsabilités (fictif)
+>Attribution des responsabilités
 
 # Dossier principal
 / @teremuhamblin 
