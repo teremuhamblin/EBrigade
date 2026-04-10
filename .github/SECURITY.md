@@ -1,11 +1,13 @@
-# 🟥 SECURITY – *EBrigade OS V2*
-### *Section COMSEC – Unité Logicielle LeBrigade (fictif)*
+# 🟥 SECURITY
+>*EBrigade OS V2*
+### *Section COMSEC
+>*Unité Logicielle EBrigade*
 
 ---
 
 ## 🛡️ Préambule COMSEC
 Ce document définit les procédures de **signalement**, **analyse** et **traitement** des vulnérabilités liées à EBrigade OS V2.  
-Il s’agit d’un protocole **fictif**, inspiré d’une esthétique militaire, sans lien institutionnel réel.
+Il s’agit d’un protocole inspiré d’une architecture militaire réelle.
 
 ---
 
@@ -24,7 +26,7 @@ Merci d’inclure :
 
 ---
 
-## 🟥 2. Classification COMSEC (fictive)
+## 🟥 2. Classification COMSEC
 - **Niveau 1 — Mineur** : impact faible, contournement simple  
 - **Niveau 2 — Modéré** : impact limité, nécessite correctif  
 - **Niveau 3 — Élevé** : impact important, risque opérationnel  
@@ -57,4 +59,4 @@ Les mainteneurs s’engagent à traiter les failles de manière responsable, dan
 
 ## 🟥 6. Contact
 Pour les failles critiques :  
-> **Canal COMSEC privé (fictif)**
+> **Canal COMSEC privé**
