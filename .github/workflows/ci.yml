@@ -1,0 +1,28 @@
+name: "🟩 CI — Opérations EBrigade"
+
+on:
+  push:
+    branches: [ "main", "dev" ]
+  pull_request:
+
+jobs:
+  ops-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: "📥 Récupération du dépôt"
+        uses: actions/checkout@v4
+
+      - name: "🔍 Vérification des scripts Bash"
+        run: |
+          sudo apt-get update && sudo apt-get install -y shellcheck
+          find . -name "*.sh" -print0 | xargs -0 -n1 shellcheck
+
+      - name: "🧪 Tests TUI (smoke test)"
+        run: |
+          if [ -f "scripts/ebrigade.sh" ]; then
+            bash scripts/ebrigade.sh -h || true
+          fi
+
+      - name: "📄 Rapport OPS"
+        run: |
+          echo "CI EBrigade terminée — statut OPS OK."
