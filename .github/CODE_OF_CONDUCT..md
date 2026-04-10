@@ -1,17 +1,18 @@
-# 🟩 CODE DE CONDUITE – *EBrigade OS V2*
-### *Unité Logicielle LeBrigade – Discipline & Conduite (fictif)*
+# 🟩 CODE DE CONDUITE
+>*EBrigade OS V2*
+### *Unité Logicielle LeBrigade
+>Discipline & Conduite*
 
 ---
 
 ## 🟩 Préambule
-Ce code de conduite établit les règles de comportement au sein du projet **EBrigade OS V2**.  
-Il s’inspire d’une esthétique militaire **fictive**, sans lien institutionnel réel.
+Ce code de conduite établit les règles de comportement au sein du projet `**EBrigade OS V2**`.  
+Il s’inspire d’une architecture militaire réelle
 
 ---
 
 ## 🟩 1. Respect & Discipline
 Les membres doivent :
-
 - respecter les autres contributeurs  
 - maintenir un ton professionnel  
 - éviter tout comportement hostile ou discriminatoire  
@@ -20,7 +21,6 @@ Les membres doivent :
 
 ## 🟩 2. Esprit de Section
 Chaque contributeur agit comme membre d’une **unité logicielle** :
-
 - entraide  
 - communication claire  
 - transparence  
@@ -30,7 +30,6 @@ Chaque contributeur agit comme membre d’une **unité logicielle** :
 
 ## 🟩 3. Engagement & Responsabilité
 Les participants s’engagent à :
-
 - fournir des contributions honnêtes  
 - documenter clairement leurs actions  
 - signaler les problèmes de manière constructive  
@@ -39,7 +38,6 @@ Les participants s’engagent à :
 
 ## 🟩 4. Zone Interdite
 Sont strictement interdits :
-
 - attaques personnelles  
 - propos discriminatoires  
 - diffusion d’informations sensibles  
@@ -49,7 +47,6 @@ Sont strictement interdits :
 
 ## 🟩 5. Procédure en cas d’incident
 En cas de violation du code :
-
 1. Avertissement  
 2. Suspension temporaire  
 3. Exclusion du projet (en dernier recours)  
@@ -58,7 +55,6 @@ En cas de violation du code :
 
 ## 🟩 6. Engagement du Mainteneur
 Les mainteneurs s’engagent à :
-
 - appliquer ce code équitablement  
 - protéger l’intégrité du projet  
 - favoriser un environnement sain  
