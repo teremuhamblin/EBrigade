@@ -1,13 +1,12 @@
 # 🇫🇷 LICENCE LeBrigade
 
-Édition OPS / RENS / COMSEC 
+## Édition OPSRENS / COMSEC 
 - Version & Logicielle
 - Ordre de Mission Logiciel n° 07 - 1re_caple
 
 ---
 
-🎖️ PRÉAMBULE – ORDRE DE MISSION LOGICIEL
-
+### 🎖️ PRÉAMBULE
 > Ordre de Mission Logiciel n° LBG‑07 - 1re_caple 
 - Émis pour : Projet LeBrigade – Section Logicielle (fictive)  
 - Objet : Libération totale du code dans le domaine public  
@@ -18,8 +17,8 @@ Toute référence à des unités, structures ou terminologies militaires est pur
 
 ---
 
-📜 ARTICLE 1 — Liberté Totale d’Utilisation (OPS‑LIBRE)
-
+### 📜 ARTICLE 1
+Liberté Totale d’Utilisation (OPS)
 > Entité autorisée à :
 
 - copier  
@@ -36,12 +35,11 @@ Toute référence à des unités, structures ou terminologies militaires est pur
 
 ---
 
-📜 ARTICLE 2 — Renonciation Complète aux Droits (RENS‑ZERO)
-
+### 📜 ARTICLE 2
+> Renonciation Complète aux Droits (RENS‑ZERO)
 > Les auteurs renoncent explicitement à tout droit d’auteur sur LeBrigade et le placent dans le domaine public.
 
 Cette renonciation est :
-
 - totale  
 - irrévocable  
 - perpétuelle  
@@ -51,17 +49,15 @@ Cette renonciation est :
 
 ---
 
-⚠️ ARTICLE 3 — Clause COMSEC / SECOPS
-
+### ⚠️ ARTICLE 3
+Clause COMSEC / SECOPS
 > LE LOGICIEL EST FOURNI « EN L’ÉTAT », SANS AUCUNE GARANTIE, Y COMPRIS MAIS NON LIMITÉ À :
-
 - la qualité marchande  
 - l’adéquation à un usage particulier  
 - la fiabilité opérationnelle  
 - l’absence de contrefaçon  
-
+0
 > EN AUCUN CAS LES AUTEURS NE POURRONT ÊTRE TENUS RESPONSABLES DE :
-
 - dommages  
 - pertes  
 - réclamations  
@@ -70,21 +66,20 @@ Cette renonciation est :
 
 ---
 
-📎 ARTICLE 4 — Référence
-
+### 📎 ARTICLE 4 — Référence
 - Licence privée
 
 ---
 
-🎖️ FIN DU DOCUMENT – FORMATAGE LÉGION ÉTRANGÈRE 
+### 🎖️ FIN DU DOCUMENT
+- FORMATAGE LÉGION ÉTRANGÈRE 
 
 `
 ───────────────────────────────────────────────────────────────
-- LeBrigade – Section Logicielle OPSRENS/COMSEC 
-- Diffusion : Sous condition
-CONDITION
+- LeBrigade – Section Logicielle
+- Diffusion : Restreinte 
 - Classification : Légion Étrangère 
-- Domaine Public – Version Militarisée
+- Domaine des Armées – SITREP
 ───────────────────────────────────────────────────────────────
 `
 
