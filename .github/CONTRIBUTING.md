@@ -1,17 +1,18 @@
-# 🟩 CONTRIBUTING — *EBrigade OS V2*
-### *Unité Logicielle LeBrigade – Discipline & Procédures (fictif)*
+# 🟩 CONTRIBUTING
+>*EBrigade OS V2*
+### *Unité Logicielle LeBrigade
+>Discipline & Procédures (fictif)*
 
 ---
 
 ## 🟩 Préambule
 Merci de contribuer à **EBrigade OS V2**.  
-Ce document décrit les règles de contribution, inspirées d’une esthétique militaire **fictive**, sans lien institutionnel réel.
+Ce document décrit les règles de contribution, inspirées d’une architecture militaire réelle.
 
 ---
 
 ## 🟩 1. Esprit de Section
 Chaque contributeur agit comme membre d’une unité :
-
 - communication claire  
 - respect mutuel  
 - rigueur dans l’exécution  
@@ -46,9 +47,8 @@ Chaque contributeur agit comme membre d’une unité :
 
 ---
 
-## 🟩 5. Classification OPS / RENS / COMSEC (fictive)
+## 🟩 5. Classification OPSRENS / COMSEC
 Lors de la PR, indiquer si la contribution touche :
-
 - **OPS** — fonctionnement opérationnel  
 - **RENS** — collecte / analyse  
 - **COMSEC** — sécurité / intégrité  
