@@ -1,0 +1,15 @@
+/* Thème LeBrigade — style centre OPS */
+
+#panel {
+  background-color: #050b06;
+  color: #00ff66;
+}
+
+.menu {
+  background-color: #050b06;
+  color: #00ff66;
+}
+
+.menu-item:hover {
+  background-color: #102015;
+}
